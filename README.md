@@ -81,15 +81,17 @@ https://realpython.com/python-raspberry-pi/
 
 
 ## Game Dev Beginner Projects
-1.	Unity & C# Basics
-2.	Gokart Game Project
-3.	Platformer Game Project
-4.	FPS Game Project
-5.	RPG Game Project
-6.	Stealth (Horror) Game Project
-7.	Multiplayer Games Project
+1.	Game a Month Challenge
+2.  Unity & C# Basics
+3.	Gokart Game Project
+4.	Platformer Game Project
+5.	FPS Game Project
+6.	RPG Game Project
+7.	Stealth (Horror) Game Project
+8.	Multiplayer Games Project
 
 ## Game Dev References
+https://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/
 https://learn.unity.com/
 https://learn.unity.com/course/create-with-code
 https://learn.unity.com/project/ruby-s-2d-rpg
@@ -100,7 +102,18 @@ https://www.youtube.com/watch?v=aTnBAzin9vE
 
 
 ## Cyber Security Beginner Projects
-//in progress
+1. Building a Modern Computer From First Principles
+2. Capture the Flag Challenges
+
+
 
 ## Cyber Security References
-//in progress
+[nand2tetris Project Overview](https://www.youtube.com/watch?v=wTl5wRDT0CU&feature=youtu.be)
+[nand2tetris Project Material](https://www.nand2tetris.org/course)
+[Introduction to Assembly Language)(https://www.youtube.com/watch?v=ViNnfoE56V8)
+[Raspberry Pi Assembly Language](https://www.youtube.com/playlist?list=PLaAnBAiYNz3PXo8A5onrxSFka1NJYC2dX)
+[Capture the flag introduction](https://www.youtube.com/watch?v=Cs9l_77g5bo)
+[Example of Capture the Flag](https://www.youtube.com/watch?v=wb7m_Y_3irg&t=2133s)
+[Real world CTF Competitions](https://www.youtube.com/watch?v=2S_TXaGYD8E&t=467s)
+[Capture the flag Over the Wire Website](https://overthewire.org/wargames/)
+[Capture the flag TryHackMe Website](https://tryhackme.com/)
