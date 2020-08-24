@@ -1,9 +1,19 @@
 # Tog Coding Beginner's Project List
 
 We mainly use python or javascripts to do things like automate the boring stuff, make apps, make games or play with artificial intelligence.🤖 
-Tog coding is an open and welcoming group. We're always excited to check out new things, meet beginners and talk about code. Feel free to add to this list.
+Tog coding is an open and welcoming group. We're always excited to check out new things, meet beginners and talk about code. 
 
 For help join the discord channel: https://discord.gg/k9bQx5B
+
+The following list below focuses on project based learning. You do not have to follow this list completely but we hope it helps spark you're interest. 
+
+Domains of interest are:
+1.	Web Development
+2.	Automation, Artificial Intelligence and Computer Vision
+3.	Game Development
+4.	Cyber Security & Hacking
+
+Feel free to add to this list.
 
 ## Web Apps Beginner Projects
 1.	HTML Basics
@@ -86,3 +96,11 @@ https://learn.unity.com/project/ruby-s-2d-rpg
 https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner?start=true
 https://www.youtube.com/watch?v=5LhA4Tk_uvI
 https://www.youtube.com/watch?v=aTnBAzin9vE
+
+
+
+## Cyber Security Beginner Projects
+//in progress
+
+## Cyber Security References
+//in progress
