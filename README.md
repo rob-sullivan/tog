@@ -5,18 +5,18 @@ Tog coding is an open and welcoming group. We're always excited to check out new
 
 For help join the discord channel: https://discord.gg/k9bQx5B
 
-##Web Apps Beginner Projects
+## Web Apps Beginner Projects
 1.	HTML Basics
 2.	CSS Basics
 3.	JavaScript Basics
 4.	Node.JS Basics
 
-##Web Apps Advanced
+## Web Apps Advanced
 1.	Recipe Note Taking Project
 2.	Real Time Chat Messenger Project
 3.	Geo Social Media Project
 
-##Web App References
+## Web App References
 [W3schools HTML Tutorials](https://www.w3schools.com/html/).
 [W3schools CSS Tutorials](https://www.w3schools.com/css/).
 [W3schools Javascript Tutorials](https://www.w3schools.com/js/).
@@ -24,7 +24,7 @@ For help join the discord channel: https://discord.gg/k9bQx5B
 [Net Ninja's Vue.js and Firebase tutorials Tutorials](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/).
 
 
-##Python Beginner Projects
+## Python Beginner Projects
 1.	Python Basics
 2.	Regular Expressions & Pattern Matching Project
 3.	Reading and Writing Files Project
@@ -70,7 +70,7 @@ https://www.djangoproject.com/start/
 https://realpython.com/python-raspberry-pi/
 
 
-##Game Dev Beginner Projects
+## Game Dev Beginner Projects
 1.	Unity & C# Basics
 2.	Gokart Game Project
 3.	Platformer Game Project
@@ -79,7 +79,7 @@ https://realpython.com/python-raspberry-pi/
 6.	Stealth (Horror) Game Project
 7.	Multiplayer Games Project
 
-##Game Dev References
+## Game Dev References
 https://learn.unity.com/
 https://learn.unity.com/course/create-with-code
 https://learn.unity.com/project/ruby-s-2d-rpg
