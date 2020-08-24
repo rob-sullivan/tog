@@ -80,6 +80,7 @@ Python Advanced Projects
 - https://www.udemy.com/course/deeplearning/
 - https://www.djangoproject.com/start/
 - https://realpython.com/python-raspberry-pi/
+- https://codechalleng.es/bites/
 
 
 ## Game Dev Beginner Projects
