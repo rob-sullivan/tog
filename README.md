@@ -50,16 +50,19 @@ Feel free to add to this list.
 13.	Keyboard & Mouse GUI Automation Project
 Python Advanced Projects
 1.	Artificial Intelligence
+
 1.1.	Theory behind A.I (Neural Networks Demystified / Tensor Flow)
 1.2.	Virtual Self Driving Car Project
 1.3.	A.I Plays Doom Project
 1.4.	A.I Plays Breakout Project
+
 2.	Computer Vision
 2.1.	OpenCV Basics
 2.2.	3D world information from 2D images Project
 2.3.	2D feature detector project
 2.4.	Video Analysis Project
 2.5.	Object Detection Project
+
 3.	Deep Learning
 3.1.	Customer Churn Project
 3.2.	Image Recognition Project
@@ -67,7 +70,9 @@ Python Advanced Projects
 3.4.	Fraud Investigator Project
 3.5.	Recommender System Project
 3.6.	Netflix Autoencoder Challenge Project
+
 4.	Web applications with Django
+
 5.	Physical Projects with Python on the Raspberry Pi
 
 ## Python References
