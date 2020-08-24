@@ -50,7 +50,7 @@ Feel free to add to this list.
 13.	Keyboard & Mouse GUI Automation Project
 Python Advanced Projects
 1.	Artificial Intelligence
-1.1.	Theory behind A.I
+1.1.	Theory behind A.I (Neural Networks Demystified / Tensor Flow)
 1.2.	Virtual Self Driving Car Project
 1.3.	A.I Plays Doom Project
 1.4.	A.I Plays Breakout Project
@@ -73,6 +73,7 @@ Python Advanced Projects
 ## Python References
 - https://www.w3schools.com/python/
 - https://automatetheboringstuff.com/
+- [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
 - https://www.i-programmer.info/news/105-artificial-intelligence/13559-tensorflow-in-7-hours.html
 - https://www.udemy.com/course/artificial-intelligence-az
 - https://docs.opencv.org/master/d9/df8/tutorial_root.html
