@@ -60,7 +60,7 @@ Python Advanced Projects
 4.	Web applications with Django
 5.	Physical Projects with Python on the Raspberry Pi
 
-##Python References
+## Python References
 https://www.w3schools.com/python/
 https://automatetheboringstuff.com/
 https://www.udemy.com/course/artificial-intelligence-az
