@@ -27,11 +27,11 @@ Feel free to add to this list.
 3.	Geo Social Media Project
 
 ## Web App References
-[W3schools HTML Tutorials](https://www.w3schools.com/html/).
-[W3schools CSS Tutorials](https://www.w3schools.com/css/).
-[W3schools Javascript Tutorials](https://www.w3schools.com/js/).
-[W3schools Node.Js Tutorials](https://www.w3schools.com/nodejs/).
-[Net Ninja's Vue.js and Firebase tutorials Tutorials](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/).
+- [W3schools HTML Tutorials](https://www.w3schools.com/html/).
+- [W3schools CSS Tutorials](https://www.w3schools.com/css/).
+- [W3schools Javascript Tutorials](https://www.w3schools.com/js/).
+- [W3schools Node.Js Tutorials](https://www.w3schools.com/nodejs/).
+- [Net Ninja's Vue.js and Firebase tutorials Tutorials](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/).
 
 
 ## Python Beginner Projects
