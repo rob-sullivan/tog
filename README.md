@@ -71,13 +71,14 @@ Python Advanced Projects
 5.	Physical Projects with Python on the Raspberry Pi
 
 ## Python References
-https://www.w3schools.com/python/
-https://automatetheboringstuff.com/
-https://www.udemy.com/course/artificial-intelligence-az
-https://docs.opencv.org/master/d9/df8/tutorial_root.html
-https://www.udemy.com/course/deeplearning/
-https://www.djangoproject.com/start/
-https://realpython.com/python-raspberry-pi/
+- https://www.w3schools.com/python/
+- https://automatetheboringstuff.com/
+- https://www.i-programmer.info/news/105-artificial-intelligence/13559-tensorflow-in-7-hours.html
+- https://www.udemy.com/course/artificial-intelligence-az
+- https://docs.opencv.org/master/d9/df8/tutorial_root.html
+- https://www.udemy.com/course/deeplearning/
+- https://www.djangoproject.com/start/
+- https://realpython.com/python-raspberry-pi/
 
 
 ## Game Dev Beginner Projects
@@ -91,13 +92,13 @@ https://realpython.com/python-raspberry-pi/
 8.	Multiplayer Games Project
 
 ## Game Dev References
-https://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/
-https://learn.unity.com/
-https://learn.unity.com/course/create-with-code
-https://learn.unity.com/project/ruby-s-2d-rpg
-https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner?start=true
-https://www.youtube.com/watch?v=5LhA4Tk_uvI
-https://www.youtube.com/watch?v=aTnBAzin9vE
+- https://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/
+- https://learn.unity.com/
+- https://learn.unity.com/course/create-with-code
+- https://learn.unity.com/project/ruby-s-2d-rpg
+- https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner?start=true
+- https://www.youtube.com/watch?v=5LhA4Tk_uvI
+- https://www.youtube.com/watch?v=aTnBAzin9vE
 
 
 
@@ -108,12 +109,12 @@ https://www.youtube.com/watch?v=aTnBAzin9vE
 
 
 ## Cyber Security References
-[nand2tetris Project Overview](https://www.youtube.com/watch?v=wTl5wRDT0CU&feature=youtu.be)
-[nand2tetris Project Material](https://www.nand2tetris.org/course)
-[Introduction to Assembly Language)(https://www.youtube.com/watch?v=ViNnfoE56V8)
-[Raspberry Pi Assembly Language](https://www.youtube.com/playlist?list=PLaAnBAiYNz3PXo8A5onrxSFka1NJYC2dX)
-[Capture the flag introduction](https://www.youtube.com/watch?v=Cs9l_77g5bo)
-[Example of Capture the Flag](https://www.youtube.com/watch?v=wb7m_Y_3irg&t=2133s)
-[Real world CTF Competitions](https://www.youtube.com/watch?v=2S_TXaGYD8E&t=467s)
-[Capture the flag Over the Wire Website](https://overthewire.org/wargames/)
-[Capture the flag TryHackMe Website](https://tryhackme.com/)
+- [nand2tetris Project Overview](https://www.youtube.com/watch?v=wTl5wRDT0CU&feature=youtu.be)
+- [nand2tetris Project Material](https://www.nand2tetris.org/course)
+- [Introduction to Assembly Language)(https://www.youtube.com/watch?v=ViNnfoE56V8)
+- [Raspberry Pi Assembly Language](https://www.youtube.com/playlist?list=PLaAnBAiYNz3PXo8A5onrxSFka1NJYC2dX)
+- [Capture the flag introduction](https://www.youtube.com/watch?v=Cs9l_77g5bo)
+- [Example of Capture the Flag](https://www.youtube.com/watch?v=wb7m_Y_3irg&t=2133s)
+- [Real world CTF Competitions](https://www.youtube.com/watch?v=2S_TXaGYD8E&t=467s)
+- [Capture the flag Over the Wire Website](https://overthewire.org/wargames/)
+- [Capture the flag TryHackMe Website](https://tryhackme.com/)
