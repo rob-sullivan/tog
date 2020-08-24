@@ -103,7 +103,7 @@ Python Advanced Projects
 
 
 ## Cyber Security Beginner Projects
-1. Building a Modern Computer From First Principles
+1. Building a Modern Computer From First Principles aka nand2tetris
 2. Capture the Flag Challenges
 
 
