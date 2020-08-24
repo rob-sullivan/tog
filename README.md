@@ -111,7 +111,7 @@ Python Advanced Projects
 ## Cyber Security References
 - [nand2tetris Project Overview](https://www.youtube.com/watch?v=wTl5wRDT0CU&feature=youtu.be)
 - [nand2tetris Project Material](https://www.nand2tetris.org/course)
-- [Introduction to Assembly Language)(https://www.youtube.com/watch?v=ViNnfoE56V8)
+- [Introduction to Assembly Language](https://www.youtube.com/watch?v=ViNnfoE56V8)
 - [Raspberry Pi Assembly Language](https://www.youtube.com/playlist?list=PLaAnBAiYNz3PXo8A5onrxSFka1NJYC2dX)
 - [Capture the flag introduction](https://www.youtube.com/watch?v=Cs9l_77g5bo)
 - [Example of Capture the Flag](https://www.youtube.com/watch?v=wb7m_Y_3irg&t=2133s)
