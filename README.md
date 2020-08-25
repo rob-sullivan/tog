@@ -81,6 +81,7 @@ Python Advanced Projects
 - https://www.djangoproject.com/start/
 - https://realpython.com/python-raspberry-pi/
 - https://codechalleng.es/bites/
+- https://adventofcode.com/
 
 
 ## Game Dev Beginner Projects
