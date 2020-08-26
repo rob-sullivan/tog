@@ -71,18 +71,16 @@ Python Advanced Projects
 5.	Physical Projects with Python on the Raspberry Pi
 
 ## Python References
-- https://www.w3schools.com/python/
-- https://automatetheboringstuff.com/
+- [W3schools Python Tutorials](https://www.w3schools.com/python/)
+- [Automate The Boring Stuff With Python](https://automatetheboringstuff.com/)
 - [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
-- https://www.i-programmer.info/news/105-artificial-intelligence/13559-tensorflow-in-7-hours.html
-- https://www.udemy.com/course/artificial-intelligence-az
-- https://docs.opencv.org/master/d9/df8/tutorial_root.html
-- https://www.udemy.com/course/deeplearning/
-- https://www.djangoproject.com/start/
-- https://realpython.com/python-raspberry-pi/
-- https://codechalleng.es/bites/
-- https://adventofcode.com/
-
+- [Tensor Flow in 7 hours](https://www.i-programmer.info/news/105-artificial-intelligence/13559-tensorflow-in-7-hours.html)
+- [A.I Course](https://www.udemy.com/course/artificial-intelligence-az)
+- [Computer Vision Tutorials](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
+- [Deep Learning Course](https://www.udemy.com/course/deeplearning/)
+- [Django Web Server Framework Tutorials](https://www.djangoproject.com/start/)
+- [Raspberry Pi Python Tutorials](https://realpython.com/python-raspberry-pi/)
+- [Python Real world Coding Challenges](https://codechalleng.es/bites/)
 
 ## Game Dev Beginner Projects
 1.	Game a Month Challenge
@@ -103,17 +101,15 @@ Python Advanced Projects
 - https://www.youtube.com/watch?v=5LhA4Tk_uvI
 - https://www.youtube.com/watch?v=aTnBAzin9vE
 
-
-
 ## Cyber Security Beginner Projects
 1. Building a Modern Computer From First Principles aka nand2tetris
 2. Capture the Flag Challenges
 
-
-
 ## Cyber Security References
 - [nand2tetris Project Overview](https://www.youtube.com/watch?v=wTl5wRDT0CU&feature=youtu.be)
 - [nand2tetris Project Material](https://www.nand2tetris.org/course)
+- [nand2tetris Videos Part 1](https://www.youtube.com/playlist?list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI)
+- [nand2tetris Videos Part 2](https://www.youtube.com/playlist?list=PLrDd_kMiAuNmllp9vuPqCuttC1XL9VyVh)
 - [Introduction to Assembly Language](https://www.youtube.com/watch?v=ViNnfoE56V8)
 - [Raspberry Pi Assembly Language](https://www.youtube.com/playlist?list=PLaAnBAiYNz3PXo8A5onrxSFka1NJYC2dX)
 - [Capture the flag introduction](https://www.youtube.com/watch?v=Cs9l_77g5bo)
@@ -121,3 +117,9 @@ Python Advanced Projects
 - [Real world CTF Competitions](https://www.youtube.com/watch?v=2S_TXaGYD8E&t=467s)
 - [Capture the flag Over the Wire Website](https://overthewire.org/wargames/)
 - [Capture the flag TryHackMe Website](https://tryhackme.com/)
+- [Advent of Code](https://adventofcode.com/)
+
+## Free Code Editors of Choice
+[Visual Studio Code](https://code.visualstudio.com/)
+[Notepad ++](https://notepad-plus-plus.org/)
+[Vim](https://www.vim.org/)
