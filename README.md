@@ -100,7 +100,7 @@ Feel free to add to this list.
 - https://www.youtube.com/watch?v=aTnBAzin9vE
 
 ## Cyber Security Beginner Projects
-1. Building a Modern Computer From First Principles aka nand2tetris
+1. Building a Modern Computer From First Principles aka [nand2tetris](https://www.nand2tetris.org/)
 2. Capture the Flag Challenges
 
 ## Cyber Security References
