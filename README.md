@@ -117,6 +117,6 @@ Python Advanced Projects
 - [Advent of Code](https://adventofcode.com/)
 
 ## Free Code Editors of Choice
-[Visual Studio Code](https://code.visualstudio.com/)
-[Notepad ++](https://notepad-plus-plus.org/)
-[Vim](https://www.vim.org/)
+1. [Visual Studio Code](https://code.visualstudio.com/)
+2. [Notepad ++](https://notepad-plus-plus.org/)
+3. [Vim](https://www.vim.org/)
