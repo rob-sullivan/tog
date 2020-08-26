@@ -45,7 +45,8 @@ Feel free to add to this list.
 11.	Email & Text Message Project
 12.	Image Manipulation Project
 13.	Keyboard & Mouse GUI Automation Project
-Python Advanced Projects
+
+## Python Advanced Projects
 1.	Artificial Intelligence
 - Theory behind A.I (Neural Networks Demystified / Tensor Flow)
 - Virtual Self Driving Car Project
