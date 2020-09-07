@@ -91,12 +91,12 @@ Feel free to add to this list.
 8.	Multiplayer Games Project
 
 ## Game Dev References
-- https://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/
-- https://learn.unity.com/
-- https://learn.unity.com/course/create-with-code
-- https://learn.unity.com/project/ruby-s-2d-rpg
-- https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner?start=true
-- https://www.youtube.com/watch?v=5LhA4Tk_uvI
+- [49-ideas-for-game-clones-to-code](https://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
+- [Unity 3D Game Engine](https://learn.unity.com/)
+- [Unity 3D Game Engine Create With Code](https://learn.unity.com/course/create-with-code)
+- [Ruby RPG Game](https://learn.unity.com/project/ruby-s-2d-rpg)
+- [John Lemon Haunted House Game](https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner?start=true)
+- [How to make a multiplayer game](https://www.youtube.com/watch?v=5LhA4Tk_uvI)
 - https://www.youtube.com/watch?v=aTnBAzin9vE
 
 ## Cyber Security Beginner Projects
