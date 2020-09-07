@@ -97,7 +97,7 @@ Feel free to add to this list.
 - [Ruby RPG Game](https://learn.unity.com/project/ruby-s-2d-rpg)
 - [John Lemon Haunted House Game](https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner?start=true)
 - [How to make a multiplayer game](https://www.youtube.com/watch?v=5LhA4Tk_uvI)
-- https://www.youtube.com/watch?v=aTnBAzin9vE
+- [Multiplayer FPS Game](https://www.youtube.com/watch?v=aTnBAzin9vE)
 
 ## Cyber Security Beginner Projects
 1. Building a Modern Computer From First Principles aka [nand2tetris](https://www.nand2tetris.org/)
