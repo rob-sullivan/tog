@@ -76,6 +76,7 @@ Feel free to add to this list.
 - [A.I Course](https://www.udemy.com/course/artificial-intelligence-az)
 - [Computer Vision Tutorials](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
 - [Deep Learning Course](https://www.udemy.com/course/deeplearning/)
+- [UC Berkeley's introductory artificial intelligence course](http://ai.berkeley.edu/home.html)
 - [Django Web Server Framework Tutorials](https://www.djangoproject.com/start/)
 - [Raspberry Pi Python Tutorials](https://realpython.com/python-raspberry-pi/)
 - [Python Real world Coding Challenges](https://codechalleng.es/bites/)
