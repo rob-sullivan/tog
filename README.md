@@ -1,6 +1,6 @@
 # Tog Coding Beginner's Project List
 
-[Tog](https://www.tog.ie/) Coding is an open and welcoming group. We're always excited to check out new things, meet beginners and talk about code. We meet every two weeks in the evening at [Tog](https://g.page/tog-hackerspace?share) or online via our [discord channel](https://discord.gg/k9bQx5B). We mainly use python or javascripts to do things like automate the boring stuff, make apps, make games or play with artificial intelligence.🤖 
+[Tog](https://www.tog.ie/) Coding is an open and welcoming group. We're always excited to check out new things, meet beginners and talk about code. We meet every two weeks in the evening at [Tog](https://g.page/tog-hackerspace?share) or online via our [discord channel](https://discord.gg/k9bQx5B). We mainly use python or javascript to do things like automate the boring stuff, make apps, make games or play with artificial intelligence.🤖 
 
 The following list below focuses on project based learning. You do not have to follow this list completely but we hope it helps spark you're interest. 
 
